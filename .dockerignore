@@ -1,0 +1,13 @@
+.git
+**/.git
+**/node_modules
+**/dist
+**/build
+**/coverage
+**/.env
+**/.env.*
+**/*.log
+**/npm-debug.log*
+**/.DS_Store
+.vscode
+.idea

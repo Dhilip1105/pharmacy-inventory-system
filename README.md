@@ -89,4 +89,4 @@ Register a new account at `http://localhost:5173/login`
 - **Font**: Inter (Google Fonts)
 - Smooth animations, hover effects, micro-interactions
 - # DevOps real-time log collection test
-Real-time GitHub log collection test
+Real-time GitHub log collection tests

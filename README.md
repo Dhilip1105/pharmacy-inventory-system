@@ -88,3 +88,4 @@ Register a new account at `http://localhost:5173/login`
 - **Accent**: Teal `#00d4aa` + Purple `#7c3aed`
 - **Font**: Inter (Google Fonts)
 - Smooth animations, hover effects, micro-interactions
+- # DevOps real-time log collection test
